@@ -1,6 +1,6 @@
 # Azheimer-predictor
 Deep Learning Neural Net for HAXIOS-2023
-Streamlit App Link: 
+Streamlit App Link:
 [click here](https://muhmmadabrar-azheimer-predictor-app-4e7iva.streamlit.app/)
 
 ## Introduction
