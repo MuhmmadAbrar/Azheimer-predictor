@@ -17,7 +17,7 @@ We have downloaded the training data from Kaggle [click_here](https://www.kaggle
 
 ## How to use
 * Refer to our video demo [in youtube](https://youtu.be/vcRnDZyhBuY).
-![demo video](demo.gif)
+https://github.com/MuhmmadAbrar/Azheimer-predictor/blob/main/assets/AzheimerPredictorDemo.mp4
 * You can use data that I have in this folder by cloning this repo, or you can manually use data from internet.
 
 * **Test with data that are in similar grounds of training data**.
