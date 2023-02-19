@@ -27,4 +27,5 @@ We have downloaded the training data from Kaggle [click_here](https://www.kaggle
 
 ## Improvements
 * Incase certain images are misclassified please raise an issue along with the image.
+* There will be provisions to check for ways to deal with the disease if diagnosed later
 * Since the hackathon's duration is 36hours, the model predicts almost every case of Azheimer. However the model can be finetuned to perfection if the training time is increased with a better GPU.
