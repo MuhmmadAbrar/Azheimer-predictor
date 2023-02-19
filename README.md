@@ -1,7 +1,7 @@
 # Azheimer-predictor
 Deep Learning Neural Net for HAXIOS-2023
 Streamlit App Link:
-[click here](https://muhmmadabrar-azheimer-predictor-app-4e7iva.streamlit.app/)
+[click here](https://alzheimer-predictor.streamlit.app/)
 
 ## Introduction
 Alzheimer's disease is a type of brain disease caused by damage to nerve cells (neurons) in the brain.
@@ -16,7 +16,7 @@ We have used Convolutional Neural Network to train our Neural Network. To achiev
 We have downloaded the training data from Kaggle [click_here](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images).
 
 ## How to use
-* Refer to our video demo [in youtube](https://youtu.be/vcRnDZyhBuY).
+* Refer to our video demo [in youtube](https://youtu.be/wb7aARxU7u0).
 * You can use data that I have in this folder by cloning this repo, or you can manually use data from internet.
 * **Test with data that are in similar grounds of training data**.
 * **Upload only MRI scanned images**.
