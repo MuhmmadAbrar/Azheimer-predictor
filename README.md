@@ -16,7 +16,7 @@ We have used Convolutional Neural Network to train our Neural Network. To achiev
 We have downloaded the training data from Kaggle [click_here](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images).
 
 ## How to use
-* Refer to our video demo [in youtube](https://youtu.be/vcRnDZyhBuY).
+* Refer to our video demo [in youtube](https://youtu.be/wb7aARxU7u0).
 * You can use data that I have in this folder by cloning this repo, or you can manually use data from internet.
 * **Test with data that are in similar grounds of training data**.
 * **Upload only MRI scanned images**.
