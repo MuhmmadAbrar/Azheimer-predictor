@@ -17,9 +17,7 @@ We have downloaded the training data from Kaggle [click_here](https://www.kaggle
 
 ## How to use
 * Refer to our video demo [in youtube](https://youtu.be/vcRnDZyhBuY).
-![demo video](demo.gif)
 * You can use data that I have in this folder by cloning this repo, or you can manually use data from internet.
-
 * **Test with data that are in similar grounds of training data**.
 * **Upload only MRI scanned images**.
 
@@ -29,4 +27,5 @@ We have downloaded the training data from Kaggle [click_here](https://www.kaggle
 
 ## Improvements
 * Incase certain images are misclassified please raise an issue along with the image.
+* There will be provisions to check for ways to deal with the disease if diagnosed later
 * Since the hackathon's duration is 36hours, the model predicts almost every case of Azheimer. However the model can be finetuned to perfection if the training time is increased with a better GPU.

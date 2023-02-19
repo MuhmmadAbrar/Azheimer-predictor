@@ -11,7 +11,7 @@ from tensorflow.keras.preprocessing.image import load_img
 from tensorflow.keras.preprocessing.image import img_to_array
 import pandas as pd
 
-st.set_page_config(page_title="Azheimer Predictor", page_icon="")
+st.set_page_config(page_title="Alzheimer Predictor", page_icon="")
 
 with hc.HyLoader('Loading..', hc.Loaders.standard_loaders, index=[0]):
     time.sleep(0.5)
@@ -30,8 +30,8 @@ def local(file):
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
  
 def predictor():
-    st.title('Azheimer Predictor')
-    st.write('## This model predicts if a given scanned image of a brain results Azheimer positive or not.')
+    st.title('Alzheimer Predictor')
+    st.write('## This model predicts if a given scanned image of a brain results Alzheimer positive or not.')
     st.write('##### Note: Our model can access real time images too. But inorder to get accurate results, please upload a softcopy.')
 
     model = tf.keras.models.load_model("customneural.h5")
